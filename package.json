@@ -1,0 +1,9 @@
+{
+  "name": "typescript-h4r6dz",
+  "description": "",
+  "homepage": "https://stackblitz.com/edit/typescript-h4r6dz",
+  "dependencies": {
+    "rxjs": "6.2.1"
+  },
+  "version": "1.0.0"
+}
